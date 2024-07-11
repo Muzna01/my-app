@@ -7,7 +7,7 @@ const What = () => (
     <div className="gpt3__whatgpt3-feature">
       <Feature
         title="What is GPT-3"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+        text="GPT-3 is an advanced language model developed by OpenAI that can understand and generate human-like text based on the input it receives. With ChatGPT, you can effortlessly create engaging and natural-sounding conversations, stories, and more. the Power of ChatGPT by OpenAI"
       />
     </div>
     <div className="gpt3__whatgpt3-heading">
@@ -19,15 +19,15 @@ const What = () => (
     <div className="gpt3__whatgpt3-container">
       <Feature
         title="Chatbots"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
+        text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit culpa"
       />
       <Feature
         title="Knowledgebase"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+        text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit culpa"
       />
       <Feature
         title="Education"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+        text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit culpa b"
       />
     </div>
   </div>
